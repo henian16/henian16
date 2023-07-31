@@ -1,4 +1,4 @@
-Introducing Alex, the coding maestro! 🚀
+
 
 👨‍💻 About Me 👨‍💻
 Hello, I'm Alex, a 35-year-old software engineer hailing from Seattle, Washington. With over a decade of programming experience under my belt, I'm deeply passionate about crafting elegant and efficient solutions to complex technical challenges. My expertise lies in web development, and I'm well-versed in a plethora of programming languages, including Python, Java, C++, and JavaScript.
@@ -40,5 +40,8 @@ I take immense pride in my ability to write clean, efficient, and maintainable c
 | Kotlin for Android Development  | Udacity         | October 2022    |
 | AWS Certified Solutions Architect | A Cloud Guru    | January 2023    |
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Code Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen.svg)
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
 Let's connect and make some magic happen! 🤝
