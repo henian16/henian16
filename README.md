@@ -40,8 +40,4 @@ I take immense pride in my ability to write clean, efficient, and maintainable c
 | Kotlin for Android Development  | Udacity         | October 2022    |
 | AWS Certified Solutions Architect | A Cloud Guru    | January 2023    |
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Code Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen.svg)
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
-
 Let's connect and make some magic happen! 🤝
